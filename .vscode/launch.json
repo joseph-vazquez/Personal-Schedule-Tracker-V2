@@ -30,13 +30,13 @@
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "vmArgs": "--module-path \"C:/Users//uwuex/Desktop/Java/Extras/openjfx-23.0.1_windows-x64_bin-sdk/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web"
+            "vmArgs": "--module-path \"ENTER THE LIB FOLDER HERE\" --add-modules javafx.controls,javafx.fxml,javafx.web"
         },
         {
             "type": "java",
             "name": "App",
             "request": "launch",
-            "vmArgs": "--module-path \"C:/Users//uwuex/Desktop/Java/Extras/openjfx-23.0.1_windows-x64_bin-sdk/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.web",
+            "vmArgs": "--module-path \"ENTER THE LIB FOLDER HERE\" --add-modules javafx.controls,javafx.fxml,javafx.web",
             "mainClass": "App",
             "projectName": "Test_fd97e68d"
         }
