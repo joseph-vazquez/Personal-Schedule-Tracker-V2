@@ -1,0 +1,31 @@
+**********************************************************************************
+Example's Schedule from (01/01) - (01/08) 
+********************************** ~~ Monday ~~ **********************************
+Activity: Example 1
+Time: All Day
+Notes: NA
+********************************* ~~ Tuesday ~~ **********************************
+Activity: Example 2
+Time: 10:30 AM
+Notes: Dont forget to bring X to Y
+******************************** ~~ Wednesday ~~ *********************************
+Activity: Example 3
+Time: 2 AM - 8 PM
+Notes: NA
+********************************* ~~ Thursday ~~ *********************************
+Activity: Example 4
+Time: Past 12 PM
+Notes: Make sure to X, Y, and Z
+********************************** ~~ Friday ~~ **********************************
+Activity: Example 5
+Time: NA
+Notes: NA
+********************************* ~~ Saturday ~~ *********************************
+Activity: Example 6
+Time: 6 AM and 12:30 PM
+Notes: Go to X then Y
+********************************** ~~ Sunday ~~ **********************************
+Activity: Example 7
+Time: Only at Night
+Notes: Remember to X or Y
+**********************************************************************************
